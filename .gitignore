@@ -1,0 +1,6 @@
+.env
+spark
+SECURITY.md
+writable/
+tests/
+system/
